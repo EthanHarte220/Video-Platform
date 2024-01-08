@@ -1,0 +1,4 @@
+*.MOV
+*.mp4
+*.ini
+node_modules
